@@ -1,0 +1,7 @@
+
+
+Portions of this code were influenced by podtool-1.1 by Ben Buxton (GPLd)
+
+libgpod is required for this application to work, see http://www.gtkpod.org/wiki/Libgpod. LibGPOD is covered under the LGPL. 
+
+Lyrics provided by LyricsFly and the provided API, for more information: http://lyricsfly.com/api
